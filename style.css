@@ -658,3 +658,15 @@ footer span a:hover{
         line-height: 38px;
     }
 }
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+#response-message {
+    margin-top: 20px;
+    color: green;
+}
+.hidden {
+    display: none;
+}
